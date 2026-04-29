@@ -1,1 +1,1 @@
-link for excalidraw : https://excalidraw.com/#json=IE3GA5aJWO8OUY3jMDPts,IMAwF2mwQZ6iz9COk1h4cw
+link to excalidraw : https://excalidraw.com/#json=IE3GA5aJWO8OUY3jMDPts,IMAwF2mwQZ6iz9COk1h4cw
